@@ -32,9 +32,9 @@ Extern at Crio Winter of Doing. This program taught me the methodology of learni
 
 ### Honors & Awards 🏅
 
-Acheived Global Rank 439 in Codechef january long challenge 2021
-Selected as a scholarship recipient for Education Outreach program by GirlScript
-Published a Reasearch paper entitled  Ground temperature estimation using Machine Learning in World Geothermal Congress
+- Acheived Global Rank 439 in Codechef january long challenge 2021
+- Selected as a scholarship recipient for Education Outreach program by GirlScript
+- Published a Reasearch paper entitled  Ground temperature estimation using Machine Learning in World Geothermal Congress
 
 ### Languages I use to play with my computer 🤔
 
