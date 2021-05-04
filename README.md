@@ -26,6 +26,8 @@ Exploring different tech-stacks and doing open source contributions
 
 ### My Experiences 🙌
 
+Interned at Molmeh Technolabs for Python/Django developer. 
+
 Contributor at CROSSWOC 2021 organized by IEEE . Embraced the journey of Open Source along with the wholesome community CROSSWOC. Contributed to multiple projects
 
 Extern at Crio Winter of Doing. This program taught me the methodology of learning by doing. It followed the quote "You can't learn swimming by watching videos about it." in coding. Learnt so many tech skills such as how API are made, FastAPI, hosting an EC2 Instance via AWS etc while creating a project.
