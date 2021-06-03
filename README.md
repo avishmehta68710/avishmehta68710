@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Avish!
+<h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Avish! </h1>
 
 <a href="https://www.linkedin.com/in/avishmehta/" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
