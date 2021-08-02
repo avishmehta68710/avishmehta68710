@@ -18,15 +18,19 @@ I am a coder and a machine learning enthusiast who loves to brainstorm different
 
 ### 🔭 I’m currently working on
 
-Flutter, Firebase Project for Google Developer Solution Challenge 2021
+SDE intern at LogicWind
 
-Gearing Up My Coding Skills for Google Code Jam 2021
+Gearing Up My Coding Skills 
 
 Exploring different tech-stacks and doing open source contributions
 
 ### My Experiences 🙌
 
 Interned at Molmeh Technolabs for Python/Django developer. 
+
+Mentor at Lets Grow More Open Source Program.
+
+Participated in Google Developer Solution Challenge
 
 Contributor at CROSSWOC 2021 organized by IEEE . Embraced the journey of Open Source along with the wholesome community CROSSWOC. Contributed to multiple projects
 
