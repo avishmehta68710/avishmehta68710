@@ -18,7 +18,7 @@ I am a coder and a machine learning enthusiast who loves to brainstorm different
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-SDE intern at LogicWind
+SDE intern at Mensa Brands
 
 Gearing Up My Coding Skills 
 
@@ -26,7 +26,13 @@ Exploring different tech-stacks and doing open source contributions
 
 ### My Experiences 🙌
 
-Interned at Molmeh Technolabs for Python/Django developer. 
+Ex-SDE Intern at Marketxcel
+
+Ex-SDE Intern at Aztlan
+
+Ex-SDE Intern at LogicWind
+
+Ex-SDE Intern at Molmeh Tehcnolabs
 
 Mentor at Lets Grow More Open Source Program.
 
