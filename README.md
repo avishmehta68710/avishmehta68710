@@ -18,7 +18,7 @@ I am a coder and a machine learning enthusiast who loves to brainstorm different
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-SDE intern at Mensa Brands
+Help Ecommerce sellers reduce their TACOS and increase ROAS using competitor analytics and intelligent ADS targeting. For more details visit https://brandanalytics.in/
 
 Gearing Up My Coding Skills 
 
